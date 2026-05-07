@@ -50,6 +50,7 @@ Focused on creating clean architectures, optimized backend systems, and seamless
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 
 ### DevOps & Tools
@@ -60,5 +61,5 @@ Focused on creating clean architectures, optimized backend systems, and seamless
 
 # ⚡ Fun Fact
 
-I enjoy building scalable backend architectures and turning business ideas into production-ready applications 🚀
+I enjoy building scalable FullStack architectures and turning business ideas into production-ready applications 🚀
 ```
